@@ -9,5 +9,5 @@
 
 ### use package
 
-- parcel-plugin-angular
-- parcel
+- [parcel](https://github.com/parcel-bundler/parcel)
+- [parcel-plugin-angular](https://github.com/fathyb/parcel-plugin-angular)
