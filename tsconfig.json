@@ -15,5 +15,9 @@
       "es2017",
       "dom"
     ]
+  },
+  "parcelAngularOptions": {
+    "watch": "aot",
+    "build": "aot"
   }
 }
